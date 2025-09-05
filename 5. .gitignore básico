@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+instance/
+database/usuarios.db
+datos/datos.txt
+datos/datos.json
+datos/datos.csv
+.env
